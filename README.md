@@ -5,6 +5,7 @@ Welcome to the **BlinkIT Grocery Dashboard Project** – a comprehensive and vis
 ---
 
 ## 📊 Dashboard Overview
+![BlinkIT Grocery Dashboard](BlinkIT%20Grocery%20Dashboard.png)
 
 ### 🔹 Key Metrics
 
@@ -74,13 +75,7 @@ These filters are implemented using **Excel Slicers** and **Pivot Table Filters*
 
 ---
 
-## 📂 Files Included
 
-* **BlinkIT Grocery Dashboard.xlsx** – Final dashboard with filters, charts, and summaries.
-* **TotalSales_Charts.png** – Image of summary charts created using Excel.
-* **Raw Dataset** – Embedded within Excel (see the 'Raw Data' or 'Source Data' sheet).
-
----
 
 ## 🛠️ Tools & Features Used
 
